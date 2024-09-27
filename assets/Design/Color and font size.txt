@@ -1,0 +1,7 @@
+dark yellow-CDAE20  
+neutral yellow-F4D64D
+light yellow-FDF1AD
+
+light blue-97A6C6
+
+Font Size-169
